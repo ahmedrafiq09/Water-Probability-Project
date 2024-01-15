@@ -1,2 +1,4 @@
 # Water-Probability-Project
-This repository contains a comprehensive exploration and prediction model for water quality based on a dataset comprising 3276 entries with 10 columns.
+This repository contains a comprehensive exploration and prediction model for water quality based on a dataset comprising 3276 entries with 10 columns. The dataset includes essential water quality parameters such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, Turbidity, and Potability (target variable). The data is diverse, featuring both numerical and categorical attributes, with some missing values that have been handled appropriately.
+
+The primary goal of this project is to predict the probability of water potability, a critical aspect for ensuring safe and clean drinking water. Various machine learning algorithms have been implemented and evaluated on this dataset to provide accurate predictions. The algorithms utilized include MLP Classifier, Logistic Regression, Decision Tree Classifier and Random Forest Classifier each carefully selected and tuned to enhance predictive performance.
